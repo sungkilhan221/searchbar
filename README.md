@@ -1,3 +1,3 @@
 # Search Bar - Book Title
 
-![Alt text](/images/path/to/searchbar-screenshot.jpg 'searchbar')
+![Alt text](/images/searchbar-screenshot.jpg 'searchbar')
